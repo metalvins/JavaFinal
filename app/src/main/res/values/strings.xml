@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JavaFinal</string>
+    <string name="title">Dice Roller</string>
+    <string name="addDie">ADD DIE</string>
+    <string name="roll">ROLL</string>
+    <string name="rollTwice">ROLL TWICE</string>
+    <string name="imageDescription">Dice Image</string>
+    <string name="numSides">Sides</string>
+</resources>
